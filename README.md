@@ -16,7 +16,7 @@
 ![Thumbnail](https://preview.ibb.co/cWPsa8/sa_mp_126.jpg)
 ![Thumbnail](https://preview.ibb.co/fbhCa8/sa_mp_131.jpg)
 ![Thumbnail](https://preview.ibb.co/jbfLTT/sa_mp_155.jpg)
-### Photo Album: https://imgur.com/a/ZiA67vO
+### Photo Album: https://imgur.com/a/ZiA67vO (dead)
 
 ## Credits
 * Incognito - streamer

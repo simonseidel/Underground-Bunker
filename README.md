@@ -1,5 +1,5 @@
 # Underground Bunker Map
-### This is a map made to showcase my [mapeditor](https://github.com/fusez/Map-Editor-V3).
+### This is a map made to showcase my [mapeditor](https://github.com/simonseidel/Map-Editor-V3).
 
 ## Features
 * ~670 objects
@@ -25,8 +25,8 @@
 * streamer **(Required)**
   * GitHub Page - https://github.com/samp-incognito/sa...lugin/releases
 * Map
-  * Download: https://github.com/fusez/Underground...ive/master.zip
-  * Github Page: https://github.com/fusez/Underground-Bunker
+  * Download: https://github.com/simonseidel/Underground...ive/master.zip
+  * Github Page: https://github.com/simonseidel/Underground-Bunker
 
 
 
